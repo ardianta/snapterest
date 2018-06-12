@@ -1,0 +1,22 @@
+{
+  "name": "snapterest",
+  "version": "1.0.0",
+  "description": "belajar reactjs",
+  "main": "source/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babelify": "^6.4.0",
+    "browserify": "^16.2.2",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "react": "^0.14.9",
+    "react-dom": "^0.14.9"
+  }
+}
