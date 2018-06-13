@@ -1,6 +1,6 @@
 var React = require('react');
 var ReactDOMServer = require('react-dom/server');
-var CollectionControls = require('./CollectionControl.react');
+var CollectionControls = require('./CollectionControls.react');
 var TweetList = require('./TweetList.react');
 var Header = require('./Header.react');
 
